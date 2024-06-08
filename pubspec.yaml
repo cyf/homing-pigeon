@@ -121,7 +121,7 @@ dev_dependencies:
   flutter_gen_runner: ^5.5.0+1
   flutter_test:
     sdk: flutter
-  freezed: ^2.5.2
+  freezed: ^2.5.3
   json_serializable: ^6.8.0
   mockingjay: ^0.5.0
   mocktail: ^1.0.3
