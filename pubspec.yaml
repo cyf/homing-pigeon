@@ -102,7 +102,7 @@ dependencies:
   slang_flutter: ^3.31.0
   socket_io_client: ^3.0.0-beta.2
   sortedmap: ^0.5.4
-  syncfusion_flutter_calendar: ^26.2.7
+  syncfusion_flutter_calendar: ^26.2.8
   synchronized: ^3.1.0+1
   timeago: ^3.7.0
   timezone: ^0.9.3
